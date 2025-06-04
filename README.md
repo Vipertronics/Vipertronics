@@ -2,6 +2,6 @@
 
 - I’m interested in Embedded Engineering and Embedded Systems
 
-- I’m currently learning C and Assembly
+- I’m currently learning C
 
 - Pronouns: He/Him
